@@ -1,13 +1,32 @@
 {
+<<<<<<< HEAD
   "name": "week5",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "mtm6330-week-5",
+  "version": "1.0.0",
+  "description": "Gulp, Sass and Browser Refresh",
+>>>>>>> develop
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "author": "",
   "license": "ISC",
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaysharma/MTM6330-Week-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaysharma/MTM6330-Week-5/issues"
+  },
+  "homepage": "https://github.com/abhaysharma/MTM6330-Week-5#readme",
+>>>>>>> develop
   "devDependencies": {
     "autoprefixer": "^9.4.7",
     "browser-sync": "^2.26.3",
